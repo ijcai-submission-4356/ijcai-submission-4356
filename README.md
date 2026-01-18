@@ -1,4 +1,4 @@
-# SE-RL Framework: Self-Evolutional Reinforcement Learning for Financial Order Execution
+# Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in Financial Single-Agent and Multi-Agent Scenarios
 
 A comprehensive implementation of the Self-Evolutional Reinforcement Learning (SE-RL) framework for automated RL algorithm design and optimization in financial order execution, as described in the research paper.
 
